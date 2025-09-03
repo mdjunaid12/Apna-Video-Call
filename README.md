@@ -47,5 +47,6 @@ echo "MONGODB_URI=your_mongodb_connection_string" >> .env
 echo "JWT_SECRET=your_jwt_secret" >> .env
 npm run dev
 
-##🤝 Contributing
+## 🤝 Contributing
+
 Contributions are welcome! Please feel free to submit a Pull Request.
